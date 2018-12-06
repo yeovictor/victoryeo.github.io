@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "victoryeo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "새로운것을 추구하는 개발자"
+  location         : "서울 강남구 언주로 609 10층"
+  email            : "yir80@naver.co.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
